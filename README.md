@@ -1,2 +1,2 @@
 # NIDS_Project
-Any projects relating to cyber security will be placed within this initial repository
+This project will utilize machine learning to analyze PCAPs or CSVs of captured packet data and train a model to identify anomalies
