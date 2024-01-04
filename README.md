@@ -8,3 +8,5 @@ Simplifications were made to data set using the 'Label' column which had multipl
 A new column was created called 'ATTACK/BENIGN' which was based off of the 'Label' column values assigning either ATTACK or BENIGN.
 Since this was my first time training a model I wanted to simplify the potential values for the model to predict.
 The model trained has a preditive accuracy score of 99.98% 
+
+NOTE: The PCAP aggregator part of the function is not fully finished, I thought it would be interesting to build something that could aggregate PCAP files if I wanted to implement something like Pyshark to capture live packet data. So far that part of the function is just a shell. 
