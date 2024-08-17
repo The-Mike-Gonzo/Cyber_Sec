@@ -1,4 +1,4 @@
-# NIDS_Project
+# NIDS Project
 This project utilizes machine learning to analyze PCAPs or CSVs of captured packet data and train a model to identify anomalies on web traffic
 
 Used Jupyter Notebooks with Anaconda to develop and install required packages which is why a requirements.txt file is present. As this was my first project utilizing GitHub, I did not know best practices.
